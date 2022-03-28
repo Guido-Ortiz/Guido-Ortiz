@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there👋 😄
+### 🔶 My name is Guido Ortiz. I am a full stack developer about to graduate from Henry Bootcamp💻
+
 
 <!--
 **Guido-Ortiz/Guido-Ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
