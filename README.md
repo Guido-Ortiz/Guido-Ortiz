@@ -1,4 +1,4 @@
-### Hi there👋 😄
+## Hi there👋 😄
 ### 🔶 My name is Guido Ortiz, and I am a Full Stack Developer. 💻
 ### 🔶 In 2021, I enter Henry Bootcamp. 💥
 ### 🔶 With +800 hours of programming based on practices and real projects, I learned some of the most demanded skills in the market: HTML, CSS, Javascript, React, Redux, Express, SQL, Sequelize. 😜
